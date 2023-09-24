@@ -1,0 +1,21 @@
+.containerAddCategoria {
+    width: 80%;
+    height: 100%;
+    position: relative;
+    margin: 135px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.containerAddCategoria .buttonContainer {
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.groupButtons{
+    display: flex;
+    gap: 30px;
+}
